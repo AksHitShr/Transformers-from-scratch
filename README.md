@@ -1,7 +1,7 @@
-## Assignment-2 (Advanced NLP)
-#### Akshit Sharma (2021101029)
+## Advanced NLP
+### Enlish to French translation using Transformers (from scratch)
 
-#### Files submitted:
+#### Files:
 - train.py: Main code to train the transformer for machine
 translation, saving the trained model to transformer.pt.
 
