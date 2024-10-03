@@ -17,8 +17,6 @@ Loads the model saved during training.
 - testbleu.txt: Scores for all sentences in the test set, printed
 in the format- 'sentence TAB score'.
 
-- Report.pdf: Report containing answers to the theory questions, hyperparameters used to train the models, corresponding graphs, evaluation metrics and analysis of the results.
-
 #### Command to run any of the code files:
 > python3 <File_Name>.py
 
